@@ -1,0 +1,10 @@
+flask
+wfdb
+numpy
+pandas
+scipy
+PyWavelets
+joblib
+scikit-learn
+imbalanced-learn
+xgboost
